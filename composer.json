@@ -1,0 +1,25 @@
+{
+    "name": "normphp-package/global-ssh",
+    "description": "deploy",
+    "keywords": ["global","ssh","ucloud","GlobalSsh"],
+    "homepage": "https://normphp.org/",
+    "authors": [
+        {
+            "name": "pizepei",
+            "email": "pizepei@pizepei.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "ext-json": "*",
+        "ext-ssh2": "*",
+        "normphp/helper": "dev-master"
+    },
+    "repositories": {
+    },
+    "autoload": {
+        "psr-4": {
+            "normphpPackage\\\\globalSsh\\": "src/"
+        }
+    }
+}
