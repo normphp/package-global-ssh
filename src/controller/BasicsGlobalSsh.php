@@ -30,7 +30,7 @@ class BasicsGlobalSsh extends Controller
      */
     public function groupList(Request $Request)
     {
-
+        echo '开始';
     }
 
 }
