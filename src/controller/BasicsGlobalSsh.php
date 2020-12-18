@@ -1,6 +1,6 @@
 <?php
 
-namespace normphp\package\globalSsh\controller;
+namespace normphpPackage\globalSsh\controller;
 
 use normphp\staging\Controller;
 use normphp\staging\Request;
