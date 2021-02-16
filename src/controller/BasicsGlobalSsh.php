@@ -24,7 +24,7 @@ class BasicsGlobalSsh extends Controller
 
     /**
      * @param \normphp\staging\Request $Request
-     * @return string [cli]
+     * @return string [json]
      * @title  入口
      * @router cli cli
      */
