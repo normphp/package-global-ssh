@@ -13,7 +13,6 @@
         "php": ">=7.0.0",
         "ext-json": "*",
         "ext-ssh2": "*",
-        "normphp/helper": "dev-main"
     },
     "repositories": {
     },
